@@ -1,0 +1,1501 @@
+id,gender,belong,age,edu_year,continent
+1,male,4,36,9,The Caribbean
+2,female,1,48,3,Europe
+3,male,3,77,8,South Asia
+4,male,4,77,12,Africa
+5,male,4,36,13,South Asia
+6,female,1,66,9,Australia
+7,male,5,80,5,North America
+8,male,4,100,15,South Asia
+9,male,3,39,5,North America
+10,female,3,41,16,Southeast Asia
+11,male,5,93,9,Europe
+12,male,3,47,17,Africa
+13,male,5,75,21,Southeast Asia
+14,male,5,48,17,Southeast Asia
+15,female,2,81,2,South America
+16,male,4,36,19,Eastern Asia
+17,female,3,65,20,The Caribbean
+18,female,1,62,24,North America
+19,female,1,72,14,South America
+20,male,3,72,14,Eastern Asia
+21,female,1,35,3,The Caribbean
+22,male,5,80,8,North America
+23,female,1,64,25,Europe
+24,female,2,92,18,The Caribbean
+25,female,2,74,23,Africa
+26,female,1,62,16,Southeast Asia
+27,female,2,50,10,Eastern Asia
+28,female,2,34,24,Eastern Asia
+29,female,2,87,8,Eastern Asia
+30,female,1,21,9,North America
+31,male,4,37,17,Africa
+32,male,5,64,19,The Caribbean
+33,female,3,32,12,Southeast Asia
+34,female,3,87,7,Africa
+35,female,3,64,6,South America
+36,male,5,95,16,Europe
+37,female,1,92,20,South Asia
+38,male,5,26,22,Africa
+39,male,5,33,14,South America
+40,male,5,86,19,Southeast Asia
+41,male,5,78,14,South Asia
+42,male,4,27,0,South Asia
+43,female,2,67,24,Africa
+44,female,2,20,13,Eastern Asia
+45,female,1,94,4,Central American
+46,female,1,87,10,Southeast Asia
+47,female,3,98,15,Eastern Asia
+48,male,5,68,1,Southeast Asia
+49,female,3,36,7,Central American
+50,female,1,59,10,Europe
+51,male,3,52,17,Central American
+52,female,3,63,2,Australia
+53,male,4,43,25,Africa
+54,female,2,86,0,Africa
+55,male,3,81,10,South America
+56,female,1,54,15,Eastern Asia
+57,female,1,66,17,South America
+58,male,5,38,15,Australia
+59,male,3,91,22,Central American
+60,male,5,81,9,Africa
+61,male,5,22,17,North America
+62,male,4,87,5,Central American
+63,male,4,21,18,Central American
+64,male,5,56,3,Australia
+65,male,4,52,12,Europe
+66,female,2,18,23,Southeast Asia
+67,female,2,41,13,Australia
+68,male,3,74,2,Southeast Asia
+69,female,2,87,9,Africa
+70,female,3,58,5,Australia
+71,female,1,71,0,Southeast Asia
+72,female,3,63,22,South America
+73,male,4,77,23,Australia
+74,female,2,77,13,Africa
+75,male,4,74,7,Australia
+76,female,3,48,18,Africa
+77,female,2,41,13,Australia
+78,female,3,53,9,Southeast Asia
+79,male,3,47,16,Europe
+80,female,3,41,8,The Caribbean
+81,male,4,47,5,Southeast Asia
+82,female,2,24,10,Eastern Asia
+83,male,5,52,24,South Asia
+84,female,3,72,6,Europe
+85,male,3,31,16,South America
+86,male,5,27,0,Central American
+87,female,1,97,21,Southeast Asia
+88,male,3,33,4,Australia
+89,female,3,71,8,Southeast Asia
+90,female,3,94,17,North America
+91,female,1,87,23,Europe
+92,female,2,61,20,The Caribbean
+93,female,1,90,1,South America
+94,female,3,62,25,North America
+95,female,2,73,10,Africa
+96,female,3,99,5,North America
+97,female,3,74,25,Southeast Asia
+98,female,1,38,7,South America
+99,female,1,85,3,Southeast Asia
+100,male,5,67,17,Africa
+101,male,5,50,10,Central American
+102,female,2,24,4,South America
+103,female,2,87,14,Central American
+104,female,2,32,17,Europe
+105,female,3,99,1,Europe
+106,female,1,49,21,Central American
+107,female,1,92,10,Europe
+108,female,1,37,25,South America
+109,female,2,32,24,Australia
+110,male,4,65,12,Eastern Asia
+111,female,1,88,3,Europe
+112,male,5,38,21,Europe
+113,female,1,59,6,Southeast Asia
+114,female,1,43,10,Central American
+115,male,4,31,21,South Asia
+116,female,2,74,23,The Caribbean
+117,male,3,54,3,North America
+118,female,1,75,14,Europe
+119,female,2,38,0,North America
+120,male,5,99,22,South America
+121,female,1,86,2,South Asia
+122,male,5,20,13,The Caribbean
+123,female,1,54,5,Central American
+124,male,3,66,17,Eastern Asia
+125,male,3,36,24,The Caribbean
+126,female,1,29,0,The Caribbean
+127,female,2,78,5,Eastern Asia
+128,male,5,58,5,Australia
+129,female,2,50,20,Central American
+130,female,1,67,15,Southeast Asia
+131,female,3,85,4,North America
+132,male,3,88,16,Europe
+133,male,4,50,9,The Caribbean
+134,male,3,98,20,South America
+135,male,3,41,17,Eastern Asia
+136,male,5,78,6,North America
+137,male,4,78,2,South Asia
+138,male,3,45,12,Eastern Asia
+139,male,4,75,14,South Asia
+140,male,4,60,19,Central American
+141,female,2,58,18,The Caribbean
+142,male,4,56,2,South America
+143,female,2,66,3,Europe
+144,female,1,34,4,South Asia
+145,female,3,87,0,North America
+146,male,5,87,3,Australia
+147,male,3,82,11,Central American
+148,male,5,91,23,Australia
+149,male,3,22,9,Central American
+150,female,1,19,22,Southeast Asia
+151,male,3,39,24,North America
+152,male,5,74,20,Australia
+153,male,4,83,25,South America
+154,male,4,91,19,The Caribbean
+155,male,3,33,23,Eastern Asia
+156,female,2,68,24,Europe
+157,male,5,56,12,The Caribbean
+158,female,2,93,22,The Caribbean
+159,male,4,57,13,Central American
+160,female,1,55,22,South America
+161,male,4,77,4,Central American
+162,male,3,76,3,Africa
+163,female,1,27,13,South Asia
+164,female,3,81,9,Europe
+165,female,3,80,16,South Asia
+166,male,3,66,9,Eastern Asia
+167,female,2,81,25,Africa
+168,male,5,49,6,North America
+169,male,3,24,15,Eastern Asia
+170,female,3,38,0,Eastern Asia
+171,female,3,37,16,Southeast Asia
+172,male,4,43,20,Europe
+173,male,4,85,8,Central American
+174,female,2,32,5,South America
+175,female,2,96,18,South Asia
+176,female,2,31,12,Eastern Asia
+177,male,4,44,2,South Asia
+178,male,4,57,6,South Asia
+179,male,5,75,21,North America
+180,male,5,45,8,Europe
+181,male,3,43,21,Europe
+182,male,3,80,4,Australia
+183,female,2,83,9,The Caribbean
+184,male,3,42,22,Europe
+185,male,5,20,16,South Asia
+186,male,4,89,11,Central American
+187,female,1,61,22,South Asia
+188,male,3,59,15,Central American
+189,male,4,23,2,Australia
+190,female,2,56,24,Central American
+191,male,3,69,21,Europe
+192,male,3,40,8,North America
+193,male,3,67,14,Central American
+194,male,3,60,4,South Asia
+195,male,3,36,22,South America
+196,female,2,86,12,Europe
+197,female,2,68,13,South America
+198,female,3,28,19,Africa
+199,male,4,29,14,Africa
+200,male,3,91,15,South Asia
+201,male,4,25,22,Africa
+202,female,2,41,12,The Caribbean
+203,male,5,58,16,Australia
+204,male,3,53,22,Europe
+205,female,1,89,7,South America
+206,male,4,72,20,South Asia
+207,female,1,26,1,The Caribbean
+208,female,2,64,4,South Asia
+209,female,1,32,5,The Caribbean
+210,male,5,65,11,Africa
+211,male,5,99,17,Africa
+212,male,5,59,21,Central American
+213,male,4,77,21,Southeast Asia
+214,male,3,87,0,South Asia
+215,male,3,29,16,Central American
+216,male,4,19,10,Europe
+217,female,3,24,9,Central American
+218,male,3,97,18,Eastern Asia
+219,female,2,20,13,Africa
+220,male,4,20,25,Eastern Asia
+221,male,3,44,9,South Asia
+222,male,5,57,14,South America
+223,female,1,50,18,South America
+224,female,1,18,3,Europe
+225,female,2,25,1,Central American
+226,female,1,49,8,South America
+227,male,3,65,9,The Caribbean
+228,female,2,21,10,The Caribbean
+229,male,4,87,13,Europe
+230,male,4,36,6,Australia
+231,female,1,49,22,Africa
+232,female,3,26,14,Central American
+233,female,1,29,21,South Asia
+234,female,1,28,18,North America
+235,female,2,63,21,North America
+236,female,1,33,14,North America
+237,female,2,18,23,South America
+238,female,3,80,7,Australia
+239,male,5,38,10,Australia
+240,female,2,47,8,Central American
+241,female,2,30,14,Central American
+242,male,4,51,0,Australia
+243,female,1,21,0,Europe
+244,male,3,45,18,Central American
+245,male,3,76,2,Europe
+246,female,3,44,9,Eastern Asia
+247,male,5,86,7,The Caribbean
+248,male,4,42,14,Africa
+249,male,5,20,9,Central American
+250,male,3,85,0,Australia
+251,female,2,42,17,The Caribbean
+252,male,5,37,1,The Caribbean
+253,female,1,51,18,Southeast Asia
+254,male,4,43,12,Australia
+255,male,5,22,21,Africa
+256,male,4,78,0,Australia
+257,male,4,26,1,Central American
+258,female,1,67,15,South Asia
+259,female,2,23,14,Eastern Asia
+260,male,3,100,12,Europe
+261,male,3,77,15,South Asia
+262,female,1,61,16,Eastern Asia
+263,male,3,28,20,South Asia
+264,male,4,83,6,Europe
+265,male,5,64,23,South America
+266,female,2,90,25,Australia
+267,female,2,20,16,South Asia
+268,female,2,93,6,Central American
+269,male,4,47,12,Africa
+270,male,3,38,4,North America
+271,female,3,45,25,Central American
+272,female,2,79,16,Europe
+273,female,1,50,2,Africa
+274,female,3,52,6,Central American
+275,male,3,69,25,The Caribbean
+276,female,1,51,16,Australia
+277,male,5,58,6,Africa
+278,female,3,68,20,The Caribbean
+279,male,3,64,0,Central American
+280,female,3,99,16,Eastern Asia
+281,female,3,75,16,Southeast Asia
+282,female,3,92,10,Eastern Asia
+283,female,1,74,24,Australia
+284,male,3,40,2,Africa
+285,female,2,65,14,Africa
+286,male,3,39,20,Australia
+287,male,5,34,10,The Caribbean
+288,male,4,86,25,Southeast Asia
+289,male,3,28,15,Central American
+290,female,1,32,24,Europe
+291,male,5,52,21,Eastern Asia
+292,male,3,50,8,Eastern Asia
+293,male,5,33,23,North America
+294,female,2,51,23,Southeast Asia
+295,female,1,83,0,Europe
+296,female,3,57,24,Eastern Asia
+297,female,3,45,21,Europe
+298,male,3,64,15,Central American
+299,male,5,56,8,Africa
+300,female,2,87,18,Europe
+301,male,3,90,11,Eastern Asia
+302,male,4,37,18,The Caribbean
+303,male,3,18,21,Southeast Asia
+304,female,2,89,8,Australia
+305,female,1,80,6,South Asia
+306,male,5,84,13,South America
+307,female,2,21,18,South America
+308,female,1,75,18,South Asia
+309,female,2,42,1,Europe
+310,female,2,64,8,Southeast Asia
+311,female,2,55,12,Europe
+312,male,3,32,14,Australia
+313,female,3,80,2,Southeast Asia
+314,male,4,38,10,South Asia
+315,male,3,74,20,Europe
+316,female,3,70,13,North America
+317,male,5,63,24,Eastern Asia
+318,male,5,31,7,The Caribbean
+319,male,4,93,17,Africa
+320,female,1,34,18,The Caribbean
+321,female,2,56,15,Australia
+322,male,5,26,1,Europe
+323,female,1,94,7,Central American
+324,female,2,96,21,Southeast Asia
+325,female,3,99,5,Europe
+326,female,3,23,11,Southeast Asia
+327,male,3,40,14,Africa
+328,male,3,76,24,North America
+329,female,2,63,7,The Caribbean
+330,female,2,55,3,Eastern Asia
+331,male,3,31,14,Africa
+332,male,5,89,19,Africa
+333,female,3,79,24,The Caribbean
+334,male,3,52,16,Africa
+335,female,3,36,12,Central American
+336,female,1,47,17,Central American
+337,male,3,95,1,South America
+338,male,3,42,12,South America
+339,female,3,57,12,Central American
+340,female,2,31,21,South Asia
+341,male,4,43,14,North America
+342,female,1,39,19,Southeast Asia
+343,male,5,65,9,North America
+344,female,2,100,2,Australia
+345,male,5,68,18,Africa
+346,male,5,20,2,Eastern Asia
+347,male,4,59,21,Africa
+348,female,1,36,13,North America
+349,female,2,90,7,Central American
+350,male,5,45,22,The Caribbean
+351,female,3,62,3,Australia
+352,male,4,88,19,Central American
+353,male,4,95,10,North America
+354,female,2,80,25,The Caribbean
+355,female,1,90,10,Eastern Asia
+356,male,5,36,10,North America
+357,female,2,64,1,Southeast Asia
+358,female,1,31,16,Europe
+359,male,3,55,8,The Caribbean
+360,male,3,70,1,North America
+361,female,2,78,23,Central American
+362,male,5,53,14,Southeast Asia
+363,male,5,57,15,South Asia
+364,female,3,98,24,The Caribbean
+365,male,4,47,3,Southeast Asia
+366,male,5,26,7,Central American
+367,female,3,81,8,North America
+368,female,2,50,25,Africa
+369,male,4,69,25,Eastern Asia
+370,male,5,31,4,Africa
+371,female,2,92,15,Europe
+372,female,2,70,12,Southeast Asia
+373,female,1,76,6,Europe
+374,female,2,95,25,Eastern Asia
+375,male,3,58,19,Southeast Asia
+376,female,2,85,16,South America
+377,female,1,85,2,Central American
+378,male,3,25,4,Southeast Asia
+379,female,3,19,18,Central American
+380,male,5,58,11,Africa
+381,female,2,72,6,Australia
+382,female,2,33,8,The Caribbean
+383,female,3,79,5,Australia
+384,male,4,65,25,North America
+385,male,3,47,16,The Caribbean
+386,female,3,29,15,The Caribbean
+387,male,4,52,22,South Asia
+388,male,5,28,2,The Caribbean
+389,male,5,81,20,Eastern Asia
+390,male,3,67,25,Australia
+391,male,5,38,3,Africa
+392,male,3,86,9,Central American
+393,female,1,65,4,North America
+394,female,2,37,20,The Caribbean
+395,male,4,84,21,North America
+396,female,2,61,9,Africa
+397,female,1,50,11,North America
+398,female,3,90,9,Africa
+399,female,1,78,12,The Caribbean
+400,male,3,26,10,Africa
+401,female,3,85,21,The Caribbean
+402,female,1,52,15,South Asia
+403,male,3,98,7,South Asia
+404,male,4,82,7,Africa
+405,female,3,25,24,South Asia
+406,female,1,62,7,Central American
+407,female,3,64,12,Central American
+408,female,3,57,1,South Asia
+409,female,3,93,11,South Asia
+410,female,3,71,9,South America
+411,male,3,93,11,South America
+412,female,3,63,10,The Caribbean
+413,female,2,64,14,Africa
+414,male,3,32,15,Europe
+415,male,5,36,16,Europe
+416,male,4,43,25,South Asia
+417,male,3,69,1,North America
+418,female,3,39,17,South Asia
+419,female,2,38,11,South America
+420,female,3,68,18,The Caribbean
+421,female,2,55,25,South Asia
+422,female,2,37,22,Australia
+423,female,1,46,17,North America
+424,male,4,68,16,Australia
+425,female,3,21,5,The Caribbean
+426,male,4,72,24,The Caribbean
+427,male,3,88,14,Central American
+428,female,1,45,2,Southeast Asia
+429,male,5,21,5,Australia
+430,female,1,39,2,Central American
+431,male,4,93,0,South America
+432,female,3,62,12,Eastern Asia
+433,male,3,84,20,North America
+434,female,1,83,25,Eastern Asia
+435,female,3,51,13,Africa
+436,female,1,72,12,South America
+437,female,3,18,3,South America
+438,female,3,89,6,Eastern Asia
+439,male,4,55,21,Australia
+440,male,5,23,9,Southeast Asia
+441,male,5,42,6,Australia
+442,female,3,99,20,Eastern Asia
+443,male,5,34,14,Africa
+444,female,2,78,14,Australia
+445,female,1,29,3,Europe
+446,male,3,23,22,Australia
+447,male,3,44,22,The Caribbean
+448,female,2,25,5,Central American
+449,male,5,100,23,North America
+450,female,1,82,19,Australia
+451,female,1,74,25,Southeast Asia
+452,female,1,57,4,Southeast Asia
+453,female,2,31,19,Australia
+454,female,1,52,11,South Asia
+455,male,3,65,0,South America
+456,male,5,73,7,Australia
+457,female,2,66,0,South America
+458,female,3,30,4,Europe
+459,male,3,78,21,Eastern Asia
+460,male,5,66,5,Europe
+461,female,1,63,20,Australia
+462,male,4,79,2,Southeast Asia
+463,female,1,25,14,South Asia
+464,male,5,60,4,Africa
+465,female,3,37,23,South America
+466,male,5,56,13,Central American
+467,female,3,66,17,South America
+468,male,3,81,15,The Caribbean
+469,male,3,79,5,North America
+470,female,1,71,24,Australia
+471,male,3,26,23,Europe
+472,female,3,54,13,Central American
+473,male,3,66,23,Southeast Asia
+474,female,2,58,7,Southeast Asia
+475,male,3,34,6,Southeast Asia
+476,female,2,38,7,Africa
+477,male,3,68,12,The Caribbean
+478,female,1,76,5,Southeast Asia
+479,male,4,56,17,Southeast Asia
+480,female,2,72,1,Australia
+481,female,2,58,7,The Caribbean
+482,female,1,56,10,South Asia
+483,male,5,30,0,South Asia
+484,female,3,81,21,The Caribbean
+485,male,5,28,5,North America
+486,female,1,36,15,Africa
+487,male,5,28,19,Central American
+488,female,2,94,11,South America
+489,male,4,63,10,Australia
+490,male,5,62,9,Eastern Asia
+491,female,1,18,2,South Asia
+492,male,4,57,12,The Caribbean
+493,male,4,36,2,Central American
+494,female,1,93,14,The Caribbean
+495,male,4,89,15,South America
+496,male,5,89,12,Central American
+497,male,4,78,16,South Asia
+498,female,2,29,2,Southeast Asia
+499,male,5,78,19,The Caribbean
+500,female,2,50,10,Eastern Asia
+501,male,5,62,20,South Asia
+502,male,3,86,18,Europe
+503,male,3,25,21,Eastern Asia
+504,female,1,42,10,North America
+505,male,4,63,15,Africa
+506,male,4,47,20,South Asia
+507,female,2,64,2,Southeast Asia
+508,male,5,66,21,South Asia
+509,female,2,64,5,South America
+510,female,2,99,13,Central American
+511,male,4,35,23,The Caribbean
+512,female,2,83,17,Central American
+513,male,4,85,16,Central American
+514,female,2,50,3,South Asia
+515,female,2,53,22,South America
+516,male,5,99,14,The Caribbean
+517,female,3,36,10,The Caribbean
+518,female,1,45,25,Central American
+519,female,2,57,2,North America
+520,female,1,93,2,Africa
+521,female,3,32,15,South America
+522,male,4,58,4,North America
+523,female,2,56,20,Australia
+524,male,4,19,9,Australia
+525,female,1,80,18,Eastern Asia
+526,male,5,46,24,Central American
+527,male,5,91,3,The Caribbean
+528,female,2,83,18,South Asia
+529,female,2,68,10,The Caribbean
+530,female,2,92,1,The Caribbean
+531,male,3,94,9,Southeast Asia
+532,female,2,27,10,The Caribbean
+533,male,5,31,24,Eastern Asia
+534,male,3,99,19,North America
+535,male,4,68,15,Australia
+536,female,2,90,18,The Caribbean
+537,female,2,56,22,The Caribbean
+538,male,5,45,23,Southeast Asia
+539,male,5,20,10,South America
+540,female,2,87,13,South Asia
+541,male,5,44,1,South America
+542,female,3,19,22,South Asia
+543,male,4,55,4,Africa
+544,female,3,20,4,The Caribbean
+545,male,3,33,18,Southeast Asia
+546,female,2,57,20,Europe
+547,male,4,19,11,Central American
+548,female,2,98,17,Australia
+549,female,3,58,3,North America
+550,male,4,29,21,Australia
+551,male,5,52,16,North America
+552,female,3,82,9,Africa
+553,male,3,72,19,South America
+554,female,3,62,5,Eastern Asia
+555,male,4,96,24,The Caribbean
+556,female,2,79,13,Europe
+557,female,1,66,10,North America
+558,female,1,42,10,Central American
+559,female,1,40,17,North America
+560,female,1,41,22,Eastern Asia
+561,female,2,55,21,Australia
+562,male,5,45,17,Southeast Asia
+563,male,4,38,23,Australia
+564,male,4,71,22,Africa
+565,female,1,35,10,Southeast Asia
+566,female,3,53,20,Australia
+567,female,3,62,11,Central American
+568,female,1,90,4,Australia
+569,male,5,70,22,Central American
+570,male,5,47,8,Central American
+571,female,3,77,24,Southeast Asia
+572,male,3,49,8,South America
+573,male,4,84,21,South Asia
+574,female,2,84,9,The Caribbean
+575,male,5,45,21,North America
+576,female,1,61,18,South Asia
+577,male,5,96,0,Eastern Asia
+578,female,1,58,6,South America
+579,female,2,80,3,South Asia
+580,female,3,40,0,Southeast Asia
+581,female,2,92,14,Eastern Asia
+582,male,3,65,7,Europe
+583,female,2,49,11,South America
+584,female,3,74,21,South Asia
+585,female,2,50,21,Eastern Asia
+586,male,3,41,17,Europe
+587,female,3,56,14,Australia
+588,male,5,51,16,Eastern Asia
+589,female,3,73,13,Southeast Asia
+590,male,3,45,13,Australia
+591,male,5,54,17,Southeast Asia
+592,female,2,24,19,South Asia
+593,male,4,85,17,The Caribbean
+594,female,3,54,15,South Asia
+595,female,2,73,0,Australia
+596,female,3,82,22,Central American
+597,male,3,82,10,South Asia
+598,male,4,64,14,Australia
+599,female,1,37,11,Eastern Asia
+600,female,3,36,7,Africa
+601,male,4,46,21,South Asia
+602,female,3,91,19,Eastern Asia
+603,female,2,77,5,Southeast Asia
+604,female,3,35,2,South America
+605,male,4,52,23,The Caribbean
+606,male,5,60,25,Southeast Asia
+607,male,4,28,12,Southeast Asia
+608,female,1,66,12,Australia
+609,female,1,55,1,Central American
+610,female,3,81,4,North America
+611,male,4,86,16,Africa
+612,female,3,25,5,Central American
+613,female,1,51,1,Australia
+614,female,2,65,3,The Caribbean
+615,female,1,73,21,Africa
+616,male,4,93,25,Africa
+617,male,5,82,10,Australia
+618,female,1,48,7,Europe
+619,male,4,21,11,Southeast Asia
+620,male,4,67,7,South America
+621,female,3,86,10,Europe
+622,female,3,47,21,Australia
+623,male,3,76,19,Europe
+624,female,1,84,7,South America
+625,male,5,92,7,Australia
+626,female,2,62,25,Australia
+627,male,4,21,16,Africa
+628,female,1,43,19,Europe
+629,male,3,44,19,Eastern Asia
+630,male,5,63,22,South Asia
+631,male,5,81,15,Australia
+632,female,1,68,13,Europe
+633,male,5,67,10,North America
+634,male,5,23,6,The Caribbean
+635,female,2,76,15,North America
+636,female,1,32,12,Europe
+637,male,5,47,14,Southeast Asia
+638,male,5,59,23,Southeast Asia
+639,female,1,54,15,Europe
+640,female,3,59,20,Africa
+641,female,2,52,22,Africa
+642,female,3,23,23,Australia
+643,female,3,85,8,South America
+644,male,4,35,2,South Asia
+645,female,2,90,18,Australia
+646,male,4,46,19,North America
+647,male,4,94,4,South Asia
+648,male,4,76,9,North America
+649,female,2,64,16,Africa
+650,male,3,34,14,Europe
+651,male,4,39,22,South America
+652,female,1,85,24,North America
+653,male,5,86,7,Africa
+654,male,4,54,14,South America
+655,female,3,66,20,Australia
+656,male,4,30,13,Europe
+657,male,5,51,19,The Caribbean
+658,male,4,70,6,Southeast Asia
+659,female,2,68,20,Central American
+660,female,3,20,22,South America
+661,female,3,59,11,The Caribbean
+662,male,4,49,16,The Caribbean
+663,male,4,68,16,South America
+664,female,2,63,9,The Caribbean
+665,male,3,38,18,North America
+666,male,4,61,13,The Caribbean
+667,female,1,28,10,Africa
+668,female,3,85,1,South Asia
+669,male,5,18,17,North America
+670,male,5,80,6,The Caribbean
+671,male,4,41,11,Australia
+672,female,2,30,25,Southeast Asia
+673,female,1,28,1,Europe
+674,female,3,68,19,The Caribbean
+675,female,2,34,17,Eastern Asia
+676,male,4,99,5,Southeast Asia
+677,female,3,41,23,Australia
+678,female,2,36,9,Africa
+679,female,2,54,19,The Caribbean
+680,female,3,25,14,Africa
+681,female,3,45,4,The Caribbean
+682,male,4,22,19,Central American
+683,male,5,34,2,South Asia
+684,female,2,53,4,Africa
+685,male,5,36,24,South Asia
+686,female,1,81,7,Southeast Asia
+687,female,3,28,7,Central American
+688,male,3,71,7,Europe
+689,male,3,62,11,North America
+690,female,2,64,23,South Asia
+691,female,2,29,22,Central American
+692,female,1,38,7,South Asia
+693,male,3,28,10,South America
+694,female,1,22,13,Australia
+695,female,1,98,7,Europe
+696,female,3,73,23,Australia
+697,male,5,37,9,The Caribbean
+698,female,2,58,6,South Asia
+699,female,2,63,16,The Caribbean
+700,male,3,29,3,Eastern Asia
+701,female,2,87,12,South Asia
+702,female,1,34,3,Central American
+703,male,4,36,4,Europe
+704,female,2,43,25,The Caribbean
+705,male,4,65,21,South Asia
+706,male,5,69,3,Eastern Asia
+707,female,3,87,17,Australia
+708,female,1,72,5,Central American
+709,female,1,92,23,South America
+710,female,1,50,23,South Asia
+711,male,3,79,22,South America
+712,female,1,40,21,Southeast Asia
+713,male,4,32,1,Europe
+714,female,3,44,22,South Asia
+715,female,2,92,10,Africa
+716,female,3,81,13,Eastern Asia
+717,male,5,98,4,The Caribbean
+718,female,2,68,5,Africa
+719,female,3,70,9,Southeast Asia
+720,female,1,95,7,Europe
+721,female,1,99,13,Australia
+722,male,3,68,23,Central American
+723,female,3,64,2,South America
+724,male,4,21,11,Southeast Asia
+725,male,3,24,15,The Caribbean
+726,male,5,52,22,Central American
+727,male,3,65,16,Australia
+728,male,5,90,0,The Caribbean
+729,male,3,89,22,Eastern Asia
+730,female,3,62,9,South America
+731,male,4,98,24,Africa
+732,male,5,98,22,South Asia
+733,male,5,89,9,Southeast Asia
+734,female,2,36,20,South Asia
+735,female,3,80,23,Central American
+736,male,5,55,1,South Asia
+737,female,3,84,8,Africa
+738,male,3,76,21,North America
+739,male,3,86,12,Central American
+740,female,2,30,24,South America
+741,male,4,64,15,The Caribbean
+742,female,2,78,17,South America
+743,female,2,48,18,South Asia
+744,male,5,97,11,Europe
+745,male,5,39,7,Central American
+746,female,3,60,16,The Caribbean
+747,male,3,84,14,Australia
+748,male,3,71,9,Eastern Asia
+749,male,4,27,14,South America
+750,female,2,59,14,South America
+751,female,1,81,22,Central American
+752,male,4,38,6,Europe
+753,female,1,97,12,South Asia
+754,female,1,93,16,South Asia
+755,female,3,83,8,Central American
+756,female,1,58,7,South America
+757,female,3,41,19,The Caribbean
+758,male,3,52,25,Eastern Asia
+759,male,5,73,20,Central American
+760,male,4,47,17,The Caribbean
+761,female,3,74,12,The Caribbean
+762,female,1,64,15,Australia
+763,male,3,52,8,Africa
+764,female,2,36,11,North America
+765,male,3,25,11,Eastern Asia
+766,male,5,43,5,Southeast Asia
+767,male,3,88,18,Europe
+768,female,3,47,6,North America
+769,female,1,24,24,Australia
+770,male,3,84,2,Eastern Asia
+771,male,4,82,15,South Asia
+772,male,3,53,17,North America
+773,male,3,42,15,South Asia
+774,female,3,54,22,Europe
+775,female,2,18,6,South Asia
+776,male,4,32,3,Europe
+777,male,5,54,24,Eastern Asia
+778,female,2,30,7,South America
+779,female,1,25,12,Europe
+780,male,5,22,12,The Caribbean
+781,male,4,77,16,Southeast Asia
+782,male,4,90,16,Southeast Asia
+783,female,3,18,4,Central American
+784,female,3,53,5,Southeast Asia
+785,female,3,52,18,Central American
+786,male,5,83,12,Southeast Asia
+787,male,5,80,24,Europe
+788,female,3,40,25,The Caribbean
+789,female,1,26,13,South America
+790,male,5,51,21,South Asia
+791,female,2,63,3,Australia
+792,female,1,95,6,Southeast Asia
+793,male,5,21,7,South America
+794,female,3,47,24,South America
+795,male,5,92,12,Europe
+796,male,4,89,5,Eastern Asia
+797,male,3,20,5,Eastern Asia
+798,male,5,31,23,Southeast Asia
+799,male,5,77,20,Australia
+800,male,3,94,2,Southeast Asia
+801,male,3,62,2,Southeast Asia
+802,female,3,51,12,Central American
+803,male,3,62,21,The Caribbean
+804,male,3,78,1,The Caribbean
+805,female,2,100,15,Australia
+806,female,3,33,21,Central American
+807,female,1,83,5,South America
+808,male,3,57,7,Central American
+809,female,1,34,22,Southeast Asia
+810,male,3,51,7,Eastern Asia
+811,male,4,33,24,North America
+812,male,3,77,5,Australia
+813,male,3,83,13,South America
+814,female,2,83,2,Europe
+815,female,1,30,9,North America
+816,male,4,73,2,North America
+817,male,3,48,11,Central American
+818,male,5,51,16,South Asia
+819,female,1,56,4,North America
+820,male,5,84,19,Southeast Asia
+821,male,3,25,24,Africa
+822,female,1,95,8,Eastern Asia
+823,female,1,72,20,Eastern Asia
+824,male,4,44,25,Africa
+825,female,3,70,19,The Caribbean
+826,female,1,56,6,Southeast Asia
+827,male,5,82,21,Europe
+828,female,2,34,3,North America
+829,male,4,47,12,The Caribbean
+830,female,2,70,12,Southeast Asia
+831,male,5,30,9,Central American
+832,male,3,38,17,Eastern Asia
+833,male,4,36,16,The Caribbean
+834,female,1,70,19,Australia
+835,male,4,36,19,North America
+836,female,2,74,12,North America
+837,male,4,42,16,Europe
+838,male,5,48,21,South Asia
+839,female,1,98,3,Australia
+840,male,5,72,0,North America
+841,male,5,40,0,South America
+842,female,2,49,14,Australia
+843,male,3,79,12,North America
+844,male,5,91,16,Africa
+845,male,3,27,23,Australia
+846,male,4,89,25,Southeast Asia
+847,female,2,71,7,Australia
+848,female,1,69,17,Europe
+849,male,4,37,12,Central American
+850,female,1,49,22,Central American
+851,male,3,31,13,Central American
+852,female,3,67,7,Southeast Asia
+853,male,5,45,7,The Caribbean
+854,male,3,70,25,Central American
+855,male,4,41,14,Eastern Asia
+856,male,4,96,12,Southeast Asia
+857,male,3,39,6,The Caribbean
+858,male,5,47,4,Eastern Asia
+859,female,1,80,16,Eastern Asia
+860,male,5,21,24,Eastern Asia
+861,female,1,94,15,South America
+862,male,3,76,22,Europe
+863,female,3,25,1,Europe
+864,female,1,99,21,Southeast Asia
+865,female,1,29,17,Eastern Asia
+866,male,3,48,16,Africa
+867,male,5,95,6,Australia
+868,female,3,51,12,The Caribbean
+869,male,4,99,17,Europe
+870,female,1,92,13,Central American
+871,male,3,93,17,Southeast Asia
+872,female,1,66,12,The Caribbean
+873,female,3,96,10,Southeast Asia
+874,male,5,74,20,Africa
+875,female,3,43,20,South America
+876,male,5,35,15,South America
+877,female,2,55,22,Eastern Asia
+878,female,1,98,16,South America
+879,male,4,67,7,Southeast Asia
+880,male,4,25,18,Central American
+881,male,4,58,19,Eastern Asia
+882,female,2,23,14,North America
+883,male,4,86,8,The Caribbean
+884,female,2,61,19,Africa
+885,female,3,81,9,Eastern Asia
+886,male,4,46,11,Southeast Asia
+887,male,3,45,20,The Caribbean
+888,female,1,28,22,Central American
+889,female,1,82,19,South Asia
+890,male,5,36,0,Africa
+891,male,3,26,24,Southeast Asia
+892,male,3,44,19,Africa
+893,male,3,51,8,Europe
+894,male,3,61,21,South Asia
+895,female,3,85,14,The Caribbean
+896,female,2,99,0,South America
+897,female,3,32,11,Southeast Asia
+898,female,1,68,2,Africa
+899,male,3,30,10,The Caribbean
+900,male,4,100,1,South America
+901,male,4,66,15,Central American
+902,female,3,87,8,Central American
+903,female,1,73,14,Africa
+904,male,5,93,11,Eastern Asia
+905,male,3,68,0,Europe
+906,female,2,54,12,Eastern Asia
+907,female,1,34,13,Europe
+908,male,5,75,24,Southeast Asia
+909,male,4,46,24,North America
+910,female,2,50,7,Africa
+911,male,4,77,7,Australia
+912,male,4,72,11,Africa
+913,male,3,27,0,South Asia
+914,female,2,64,10,South America
+915,female,1,40,7,South Asia
+916,female,1,38,9,Central American
+917,female,2,30,18,Europe
+918,female,3,50,10,South America
+919,female,1,41,6,Central American
+920,female,2,28,10,South America
+921,male,3,34,16,Eastern Asia
+922,male,4,85,0,Central American
+923,male,5,64,25,Eastern Asia
+924,male,5,42,20,Eastern Asia
+925,male,4,90,20,South America
+926,male,5,38,7,The Caribbean
+927,male,4,100,22,South Asia
+928,female,2,100,23,Central American
+929,female,3,29,5,Australia
+930,male,5,54,21,The Caribbean
+931,male,4,59,17,South Asia
+932,female,1,34,5,Central American
+933,male,5,65,4,Europe
+934,male,3,45,12,South Asia
+935,female,2,58,18,Australia
+936,male,4,64,21,Africa
+937,female,3,35,7,Southeast Asia
+938,male,4,95,8,Eastern Asia
+939,female,2,88,16,Southeast Asia
+940,female,1,30,2,The Caribbean
+941,female,3,99,18,Africa
+942,male,5,30,10,Eastern Asia
+943,female,2,48,23,Central American
+944,male,4,19,16,The Caribbean
+945,male,4,33,20,Australia
+946,male,4,26,18,South America
+947,male,3,90,1,Central American
+948,female,3,55,7,South Asia
+949,female,1,92,18,South America
+950,male,3,71,6,The Caribbean
+951,male,5,73,16,South Asia
+952,female,3,62,5,Australia
+953,male,3,51,18,Southeast Asia
+954,female,1,26,23,South Asia
+955,male,5,25,5,Southeast Asia
+956,male,3,24,1,Eastern Asia
+957,female,2,53,5,Europe
+958,male,5,35,22,North America
+959,female,1,20,4,Central American
+960,male,3,45,18,North America
+961,male,3,87,19,Eastern Asia
+962,male,5,61,3,South Asia
+963,female,2,38,21,Eastern Asia
+964,male,4,45,25,North America
+965,male,4,71,16,North America
+966,male,3,71,10,Central American
+967,male,5,82,3,South America
+968,female,2,38,25,Africa
+969,female,1,30,12,Eastern Asia
+970,male,4,74,19,Europe
+971,female,2,66,25,Africa
+972,male,5,71,16,Eastern Asia
+973,male,4,27,8,Australia
+974,male,5,70,3,The Caribbean
+975,female,3,61,22,The Caribbean
+976,female,2,64,13,North America
+977,female,1,70,18,The Caribbean
+978,female,3,91,25,Southeast Asia
+979,female,3,63,2,Europe
+980,female,2,30,13,The Caribbean
+981,female,2,54,7,South Asia
+982,female,1,41,23,Southeast Asia
+983,female,3,19,0,Africa
+984,male,3,98,9,Southeast Asia
+985,female,1,31,17,Eastern Asia
+986,female,2,27,15,North America
+987,female,3,52,7,Central American
+988,female,1,42,0,Central American
+989,female,1,20,11,Australia
+990,female,1,34,7,Europe
+991,female,1,29,23,Eastern Asia
+992,female,1,71,15,Central American
+993,female,3,41,17,North America
+994,female,1,46,3,Africa
+995,female,3,60,5,Central American
+996,male,5,42,11,South Asia
+997,male,4,77,8,Southeast Asia
+998,female,1,82,14,Central American
+999,female,2,45,15,Eastern Asia
+1000,male,3,33,23,The Caribbean
+1001,female,2,64,11,The Caribbean
+1002,male,5,98,23,Africa
+1003,male,4,75,22,The Caribbean
+1004,male,3,93,13,Africa
+1005,male,5,44,12,Eastern Asia
+1006,male,4,70,24,Europe
+1007,female,1,59,1,The Caribbean
+1008,male,5,76,2,Australia
+1009,female,2,64,25,North America
+1010,female,3,51,23,Southeast Asia
+1011,male,5,54,21,The Caribbean
+1012,male,3,23,9,Africa
+1013,female,1,24,8,Eastern Asia
+1014,male,3,42,25,The Caribbean
+1015,male,4,50,19,Central American
+1016,female,3,72,7,The Caribbean
+1017,female,1,75,9,Africa
+1018,male,3,24,18,South Asia
+1019,female,2,74,2,South Asia
+1020,male,4,29,23,The Caribbean
+1021,male,5,33,4,Southeast Asia
+1022,male,5,97,2,Eastern Asia
+1023,female,3,60,25,Australia
+1024,female,2,94,15,Australia
+1025,female,2,24,16,The Caribbean
+1026,female,1,68,14,The Caribbean
+1027,female,3,90,2,South Asia
+1028,male,4,49,11,Africa
+1029,male,5,92,8,Southeast Asia
+1030,male,3,25,20,The Caribbean
+1031,male,5,89,11,Australia
+1032,female,2,62,25,Eastern Asia
+1033,male,3,76,14,Europe
+1034,female,1,21,1,Central American
+1035,male,4,84,22,The Caribbean
+1036,female,1,46,17,Africa
+1037,female,1,46,19,The Caribbean
+1038,male,4,45,11,Africa
+1039,male,5,94,22,Southeast Asia
+1040,male,5,96,3,Europe
+1041,male,3,61,22,North America
+1042,female,2,21,15,Eastern Asia
+1043,male,3,26,22,Eastern Asia
+1044,male,5,22,15,Africa
+1045,female,1,73,0,South Asia
+1046,male,5,67,21,Africa
+1047,male,4,92,24,South Asia
+1048,male,4,32,1,South America
+1049,male,4,49,2,Australia
+1050,male,5,45,25,Eastern Asia
+1051,female,3,39,20,Southeast Asia
+1052,male,5,34,24,Africa
+1053,male,5,76,19,Southeast Asia
+1054,male,4,88,16,Europe
+1055,male,5,74,19,Southeast Asia
+1056,male,3,43,21,The Caribbean
+1057,female,3,42,20,Australia
+1058,male,5,27,0,The Caribbean
+1059,female,2,62,19,Central American
+1060,female,3,100,5,Africa
+1061,male,5,28,14,Eastern Asia
+1062,male,5,94,25,Africa
+1063,male,5,70,25,Australia
+1064,male,5,89,13,North America
+1065,female,1,85,19,North America
+1066,male,3,45,14,Central American
+1067,male,3,92,13,Australia
+1068,male,5,82,24,South America
+1069,male,4,66,20,South America
+1070,male,5,64,23,South America
+1071,male,5,69,24,Eastern Asia
+1072,female,2,71,25,Eastern Asia
+1073,female,1,77,4,South America
+1074,male,5,74,5,North America
+1075,male,4,64,16,Australia
+1076,male,4,48,10,Southeast Asia
+1077,female,2,63,15,Australia
+1078,male,4,43,11,South America
+1079,female,2,22,14,Australia
+1080,male,3,69,22,Europe
+1081,male,4,92,3,Eastern Asia
+1082,male,3,71,17,Eastern Asia
+1083,male,3,50,20,North America
+1084,female,1,67,2,Southeast Asia
+1085,female,3,55,21,South America
+1086,male,4,44,7,Africa
+1087,male,4,32,22,North America
+1088,female,3,78,2,North America
+1089,female,2,38,7,Southeast Asia
+1090,female,1,63,17,The Caribbean
+1091,female,1,86,9,South America
+1092,male,4,23,24,Africa
+1093,female,2,55,19,Eastern Asia
+1094,male,3,79,16,Southeast Asia
+1095,female,3,79,7,Africa
+1096,female,1,99,22,Europe
+1097,female,3,95,10,North America
+1098,female,3,91,4,Southeast Asia
+1099,female,2,63,25,Eastern Asia
+1100,male,5,30,12,Australia
+1101,male,4,20,20,Eastern Asia
+1102,female,2,23,22,Europe
+1103,female,3,25,4,Southeast Asia
+1104,male,4,61,23,Europe
+1105,female,1,50,12,South America
+1106,female,1,98,5,South America
+1107,male,4,92,4,Australia
+1108,female,2,94,8,North America
+1109,female,3,67,15,The Caribbean
+1110,male,3,28,1,South Asia
+1111,male,3,45,0,Africa
+1112,male,5,87,7,Europe
+1113,female,1,58,18,Africa
+1114,male,4,33,10,Australia
+1115,male,3,85,11,Africa
+1116,male,5,65,11,Africa
+1117,male,4,73,6,Eastern Asia
+1118,male,3,81,25,Southeast Asia
+1119,male,4,76,12,North America
+1120,female,1,79,7,South Asia
+1121,female,2,93,21,Southeast Asia
+1122,male,4,28,25,Eastern Asia
+1123,male,3,35,8,Africa
+1124,male,3,36,6,South Asia
+1125,female,3,72,25,Eastern Asia
+1126,female,1,99,20,Eastern Asia
+1127,female,2,43,23,Eastern Asia
+1128,female,1,23,14,South America
+1129,female,1,21,1,South Asia
+1130,female,1,46,22,Eastern Asia
+1131,female,2,76,19,The Caribbean
+1132,female,3,34,24,Africa
+1133,female,2,60,11,South Asia
+1134,male,3,97,0,South America
+1135,male,4,83,22,Europe
+1136,male,4,51,21,Europe
+1137,male,5,25,7,North America
+1138,female,3,30,4,Central American
+1139,female,1,25,14,The Caribbean
+1140,male,4,82,0,Europe
+1141,female,3,60,0,South America
+1142,male,3,56,24,Central American
+1143,female,1,98,9,Eastern Asia
+1144,male,4,76,21,Eastern Asia
+1145,female,1,61,9,Australia
+1146,female,2,26,20,Africa
+1147,male,5,54,14,Central American
+1148,female,1,91,16,Africa
+1149,male,5,53,21,South America
+1150,male,3,45,5,The Caribbean
+1151,male,3,59,2,Central American
+1152,male,5,60,12,Europe
+1153,female,2,59,15,The Caribbean
+1154,female,3,83,7,Australia
+1155,female,3,72,14,Africa
+1156,male,5,89,16,Africa
+1157,female,1,65,16,The Caribbean
+1158,male,5,39,21,Eastern Asia
+1159,female,2,44,25,Africa
+1160,female,1,84,12,Australia
+1161,female,2,30,16,Europe
+1162,male,3,62,5,South Asia
+1163,female,2,27,16,Europe
+1164,female,2,26,15,Europe
+1165,male,5,71,13,Africa
+1166,female,3,44,12,Southeast Asia
+1167,male,5,51,5,Eastern Asia
+1168,female,2,18,2,Africa
+1169,male,3,49,13,Eastern Asia
+1170,male,4,88,13,South America
+1171,female,3,84,14,Southeast Asia
+1172,male,4,37,7,Africa
+1173,male,5,52,14,North America
+1174,male,4,95,21,Europe
+1175,male,4,34,12,South America
+1176,male,4,35,16,Southeast Asia
+1177,male,4,62,20,Africa
+1178,female,2,70,23,Australia
+1179,male,5,99,2,The Caribbean
+1180,male,4,85,5,The Caribbean
+1181,female,3,82,4,Eastern Asia
+1182,female,3,18,21,Southeast Asia
+1183,female,3,75,25,Europe
+1184,female,1,43,16,Europe
+1185,female,2,37,22,South Asia
+1186,female,1,27,24,The Caribbean
+1187,female,2,76,1,South America
+1188,male,4,92,25,Southeast Asia
+1189,male,3,58,14,Europe
+1190,female,2,22,4,South Asia
+1191,male,5,82,25,Southeast Asia
+1192,male,3,34,19,Central American
+1193,male,3,39,5,Europe
+1194,female,1,58,5,Central American
+1195,female,3,85,17,Southeast Asia
+1196,male,5,86,17,Europe
+1197,female,2,28,3,Central American
+1198,male,4,73,16,North America
+1199,male,3,68,24,South Asia
+1200,male,5,38,13,South America
+1201,male,4,93,13,The Caribbean
+1202,female,3,43,12,South Asia
+1203,female,1,36,6,Central American
+1204,female,3,77,11,Europe
+1205,male,5,88,22,North America
+1206,female,2,64,14,North America
+1207,male,3,88,18,The Caribbean
+1208,female,2,43,10,North America
+1209,male,4,57,14,South Asia
+1210,male,4,22,11,Africa
+1211,male,5,38,2,North America
+1212,female,2,95,16,The Caribbean
+1213,female,1,21,2,North America
+1214,female,2,40,18,North America
+1215,female,1,32,19,Australia
+1216,male,4,25,3,South Asia
+1217,female,3,58,2,Central American
+1218,female,2,36,25,Eastern Asia
+1219,male,3,63,15,Africa
+1220,male,3,45,11,North America
+1221,male,3,85,7,South America
+1222,female,2,32,23,North America
+1223,male,5,54,16,Australia
+1224,male,4,18,6,Central American
+1225,male,4,84,10,South America
+1226,female,2,41,17,Africa
+1227,male,4,44,0,South America
+1228,female,3,57,2,South Asia
+1229,female,2,80,3,The Caribbean
+1230,male,3,78,12,The Caribbean
+1231,male,4,53,5,Africa
+1232,female,1,41,25,Central American
+1233,male,3,41,13,The Caribbean
+1234,male,4,21,4,Southeast Asia
+1235,female,3,84,15,Australia
+1236,female,3,51,14,Africa
+1237,male,3,74,14,Africa
+1238,female,3,66,3,Eastern Asia
+1239,male,4,70,7,Eastern Asia
+1240,male,5,40,15,South Asia
+1241,male,5,86,15,South Asia
+1242,female,3,70,3,Eastern Asia
+1243,male,3,79,12,The Caribbean
+1244,male,3,58,25,Europe
+1245,male,4,74,12,Africa
+1246,female,3,77,1,Southeast Asia
+1247,female,1,71,2,Africa
+1248,female,3,87,21,North America
+1249,female,2,74,7,Central American
+1250,female,3,27,23,Australia
+1251,male,4,57,14,Europe
+1252,female,3,24,10,Southeast Asia
+1253,female,3,55,8,North America
+1254,female,3,78,6,South Asia
+1255,male,5,20,12,Southeast Asia
+1256,female,3,68,1,Eastern Asia
+1257,female,1,64,7,Africa
+1258,male,4,85,6,Southeast Asia
+1259,female,1,93,23,Central American
+1260,male,3,55,11,South America
+1261,male,3,53,18,South Asia
+1262,male,3,58,6,Australia
+1263,male,3,86,9,Australia
+1264,male,3,30,24,Southeast Asia
+1265,female,3,75,15,South America
+1266,male,5,67,2,Africa
+1267,male,5,47,9,North America
+1268,female,1,79,5,Europe
+1269,male,3,42,17,Africa
+1270,female,2,44,17,North America
+1271,female,3,68,4,Europe
+1272,female,2,95,20,South America
+1273,male,4,74,6,Europe
+1274,male,3,64,1,Africa
+1275,male,5,56,10,Central American
+1276,female,2,33,12,Southeast Asia
+1277,male,3,39,22,North America
+1278,male,5,71,4,Central American
+1279,male,5,38,5,North America
+1280,female,3,89,23,Southeast Asia
+1281,female,2,33,25,The Caribbean
+1282,male,3,76,13,Europe
+1283,male,3,48,11,South America
+1284,male,4,59,3,The Caribbean
+1285,male,5,91,22,The Caribbean
+1286,female,2,49,5,Australia
+1287,female,2,76,9,Eastern Asia
+1288,female,3,51,17,Africa
+1289,female,3,26,14,Central American
+1290,male,4,98,7,Central American
+1291,male,3,28,25,Central American
+1292,male,5,27,8,Central American
+1293,female,2,34,4,Africa
+1294,male,4,85,9,The Caribbean
+1295,female,3,65,19,Africa
+1296,female,3,69,5,Central American
+1297,male,4,42,15,Eastern Asia
+1298,male,4,38,23,South Asia
+1299,male,3,82,2,Southeast Asia
+1300,female,2,80,9,Central American
+1301,male,3,68,10,South America
+1302,female,3,53,10,South Asia
+1303,male,3,98,16,Africa
+1304,female,1,83,3,South America
+1305,female,3,32,3,South America
+1306,male,5,56,16,North America
+1307,female,1,87,8,South America
+1308,female,2,18,18,Central American
+1309,male,3,40,4,North America
+1310,female,3,56,21,Australia
+1311,male,5,74,23,The Caribbean
+1312,female,2,98,5,South America
+1313,male,4,51,2,Eastern Asia
+1314,male,4,58,21,Southeast Asia
+1315,female,2,90,0,South America
+1316,female,2,30,19,Australia
+1317,female,2,87,21,Europe
+1318,female,2,23,15,Africa
+1319,female,3,69,22,Africa
+1320,male,3,20,10,Australia
+1321,female,1,98,12,Europe
+1322,male,4,80,9,Africa
+1323,male,3,66,2,Africa
+1324,female,3,93,8,Africa
+1325,male,5,64,11,Australia
+1326,male,4,72,22,The Caribbean
+1327,male,3,81,13,Southeast Asia
+1328,male,4,82,0,Australia
+1329,female,3,98,17,Europe
+1330,male,4,84,16,South America
+1331,female,3,32,8,The Caribbean
+1332,female,3,49,8,The Caribbean
+1333,male,3,85,22,South America
+1334,female,1,35,9,Eastern Asia
+1335,female,3,100,18,North America
+1336,female,2,60,14,Southeast Asia
+1337,male,4,52,4,Southeast Asia
+1338,female,3,95,14,Eastern Asia
+1339,female,3,75,19,North America
+1340,female,1,50,22,Southeast Asia
+1341,male,4,31,24,Europe
+1342,female,1,51,1,South Asia
+1343,male,4,78,12,South Asia
+1344,male,4,21,23,Southeast Asia
+1345,male,5,76,15,Central American
+1346,male,4,46,14,Southeast Asia
+1347,male,4,100,24,South America
+1348,male,3,23,9,South America
+1349,female,2,66,13,North America
+1350,male,5,57,9,Africa
+1351,female,3,100,24,The Caribbean
+1352,female,3,82,13,Europe
+1353,male,3,86,25,Eastern Asia
+1354,female,3,44,22,Southeast Asia
+1355,female,2,97,8,Africa
+1356,female,1,23,24,Africa
+1357,female,2,30,13,Europe
+1358,male,3,81,2,Eastern Asia
+1359,female,3,79,19,South America
+1360,male,3,36,15,Australia
+1361,female,1,93,1,Europe
+1362,female,1,97,9,Africa
+1363,male,5,60,2,South Asia
+1364,female,2,91,10,Southeast Asia
+1365,female,1,37,10,North America
+1366,female,1,85,20,South Asia
+1367,male,3,61,20,Africa
+1368,female,3,40,21,The Caribbean
+1369,male,3,19,12,Central American
+1370,female,3,39,6,Eastern Asia
+1371,male,3,74,22,South America
+1372,male,4,89,16,Southeast Asia
+1373,female,1,24,1,North America
+1374,female,1,95,11,Australia
+1375,male,3,73,24,South America
+1376,male,5,84,9,Southeast Asia
+1377,female,2,33,17,Australia
+1378,male,5,100,21,North America
+1379,female,2,68,10,Africa
+1380,female,1,99,15,Central American
+1381,female,3,97,16,South Asia
+1382,female,1,89,18,South Asia
+1383,male,4,29,17,Africa
+1384,female,1,70,2,South America
+1385,male,5,92,20,Africa
+1386,female,3,22,25,Africa
+1387,male,5,44,15,Southeast Asia
+1388,female,3,29,5,Southeast Asia
+1389,male,4,34,24,North America
+1390,male,3,23,11,Central American
+1391,female,2,22,10,Southeast Asia
+1392,female,2,74,14,North America
+1393,female,2,45,14,The Caribbean
+1394,female,2,95,15,Africa
+1395,male,4,86,9,Africa
+1396,female,3,76,11,South America
+1397,male,3,50,12,The Caribbean
+1398,male,3,79,3,South America
+1399,female,1,67,6,Australia
+1400,male,5,36,21,North America
+1401,male,4,86,1,North America
+1402,male,5,83,25,Africa
+1403,male,5,64,14,Europe
+1404,female,2,56,7,Australia
+1405,female,2,85,6,North America
+1406,female,3,50,14,Southeast Asia
+1407,female,3,30,22,Africa
+1408,male,3,71,13,South America
+1409,male,5,24,7,The Caribbean
+1410,female,1,96,11,South America
+1411,female,1,31,12,South Asia
+1412,female,3,36,10,Europe
+1413,male,4,71,16,North America
+1414,female,2,37,16,Central American
+1415,female,2,46,23,Eastern Asia
+1416,female,2,41,3,Europe
+1417,male,5,99,20,Africa
+1418,male,5,80,7,North America
+1419,male,3,91,4,The Caribbean
+1420,male,4,74,25,North America
+1421,male,5,25,15,Eastern Asia
+1422,male,3,79,3,The Caribbean
+1423,male,5,46,21,South America
+1424,male,4,91,14,The Caribbean
+1425,female,1,34,11,Europe
+1426,female,2,83,4,South America
+1427,male,5,23,22,North America
+1428,male,5,75,15,Africa
+1429,female,2,86,13,Australia
+1430,male,3,45,9,Africa
+1431,male,5,79,6,North America
+1432,male,3,58,12,Eastern Asia
+1433,female,3,86,19,Australia
+1434,female,2,99,4,North America
+1435,female,3,58,2,Central American
+1436,female,2,66,14,Europe
+1437,female,1,66,3,Central American
+1438,male,4,93,14,South America
+1439,female,2,88,13,South Asia
+1440,male,5,20,19,North America
+1441,male,4,27,18,Southeast Asia
+1442,female,2,52,12,Southeast Asia
+1443,female,3,97,9,The Caribbean
+1444,male,4,19,20,Africa
+1445,male,5,41,4,Africa
+1446,male,3,91,22,Africa
+1447,female,3,55,19,Central American
+1448,female,3,39,19,Europe
+1449,female,2,43,24,North America
+1450,female,2,60,5,Eastern Asia
+1451,female,1,72,3,The Caribbean
+1452,male,4,56,1,South America
+1453,female,2,46,21,Australia
+1454,male,4,37,15,South America
+1455,male,5,58,17,North America
+1456,male,5,71,4,South Asia
+1457,female,1,37,21,Africa
+1458,female,3,36,3,Australia
+1459,female,3,83,12,Central American
+1460,male,5,47,18,North America
+1461,male,5,70,22,South Asia
+1462,male,5,51,1,Central American
+1463,male,5,39,12,South Asia
+1464,male,3,84,10,Africa
+1465,male,4,23,21,Central American
+1466,female,3,96,3,Europe
+1467,female,1,44,21,Southeast Asia
+1468,female,2,27,19,South America
+1469,female,3,90,19,Europe
+1470,male,3,65,14,Australia
+1471,male,3,87,3,The Caribbean
+1472,female,2,76,8,Southeast Asia
+1473,male,5,76,6,Europe
+1474,female,2,19,18,North America
+1475,female,3,46,18,South Asia
+1476,female,1,85,5,Australia
+1477,male,4,82,5,North America
+1478,female,2,100,19,Southeast Asia
+1479,female,3,43,14,South Asia
+1480,female,2,27,14,Australia
+1481,male,3,70,24,The Caribbean
+1482,male,5,96,19,Southeast Asia
+1483,female,2,76,8,Australia
+1484,male,5,39,3,Europe
+1485,male,4,68,17,Australia
+1486,male,3,65,17,Southeast Asia
+1487,male,3,38,4,Africa
+1488,male,3,39,19,Europe
+1489,male,5,47,22,North America
+1490,male,4,42,10,Southeast Asia
+1491,male,4,45,4,Africa
+1492,male,3,82,21,Eastern Asia
+1493,male,5,62,25,The Caribbean
+1494,female,2,85,3,Africa
+1495,female,2,24,11,Eastern Asia
+1496,male,3,66,1,South America
+1497,female,2,26,12,South Asia
+1498,female,1,53,9,Africa
+1499,male,4,100,8,Central American
+1500,male,5,18,9,The Caribbean
